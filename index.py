@@ -60,7 +60,6 @@ def take_command():
         except sr.UnknownValueError:
             talk('Kavindu, I cannot understand')
         
-        
 
 def run_alexa():
     command = take_command()
