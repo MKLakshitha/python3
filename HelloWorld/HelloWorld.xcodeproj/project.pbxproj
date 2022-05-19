@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		3C7F79D32832610B002CB7E5 /* HelloWorldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7F79D22832610B002CB7E5 /* HelloWorldApp.swift */; };
-		3C7F79D52832610B002CB7E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7F79D42832610B002CB7E5 /* ContentView.swift */; };
 		3C7F79D72832610D002CB7E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C7F79D62832610D002CB7E5 /* Assets.xcassets */; };
 		3C7F79DA2832610D002CB7E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C7F79D92832610D002CB7E5 /* Preview Assets.xcassets */; };
 		3C7F79E42832610D002CB7E5 /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7F79E32832610D002CB7E5 /* HelloWorldTests.swift */; };
 		3C7F79EE2832610D002CB7E5 /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7F79ED2832610D002CB7E5 /* HelloWorldUITests.swift */; };
 		3C7F79F02832610D002CB7E5 /* HelloWorldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7F79EF2832610D002CB7E5 /* HelloWorldUITestsLaunchTests.swift */; };
+		3C7F79FC28326675002CB7E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7F79D42832610B002CB7E5 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C7F79D52832610B002CB7E5 /* ContentView.swift in Sources */,
+				3C7F79FC28326675002CB7E5 /* ContentView.swift in Sources */,
 				3C7F79D32832610B002CB7E5 /* HelloWorldApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
